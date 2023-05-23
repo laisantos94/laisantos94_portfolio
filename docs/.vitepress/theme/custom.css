@@ -1,0 +1,115 @@
+:root {
+	--c-brand: #F7580B;
+	--c-brand-light: #B756FF;
+	--vp-c-brand: rgb(247, 88, 11);
+	--vp-button-brand-bg: rgb(18, 18, 18);
+	--vp-button-brand-border: rgb(247, 88, 11);
+	--vp-button-brand-hover-bg: rgb(183, 86, 255);
+	--vp-button-brand-hover-border: rgb(183, 86, 255);
+	--vp-button-brand-active-bg: rgb(183, 86, 255);
+	--vp-button-brand-active-border: rgb(183, 86, 255);
+	--vp-c-brand-dark: rgb(183, 86, 255);
+}
+
+.nav-bar .logo {
+	height: 30px;
+	margin-right: 2px;
+}
+
+infoblocktitle {
+	color: #2C3E50;
+}
+
+infoblocktext {
+	color: #2C3E50;
+}
+
+warningblocktitle {
+	color: #2C3E50;
+}
+
+warningblocktext {
+	color: #2C3E50;
+}
+
+dangerblocktitle {
+	color: #2C3E50;
+}
+
+dangerblocktext {
+	color: #2C3E50;
+}
+
+.VPHome .VPHero.has-image.VPHomeHero .container .image {
+	display: block;
+}
+
+.VPHero .text {
+	font-size: 42px;
+}
+
+.VPHero .tagline {
+	font-size: 20px;
+}
+
+.heroimage {
+	display: flex;
+	margin: auto;
+	margin-top: -340px;
+	margin-right: 300px;
+	max-width: 20%;
+}
+
+.link-back {
+	display: flex;
+	max-width: 1150px;
+	margin: 0 auto;
+	color: #F7580B;
+	font-weight: 500;
+}
+
+.link-top {
+	display: flex;
+	max-width: 1150px;
+	margin: 0 auto;
+	color: #F7580B;
+	font-weight: 500;
+}
+
+.quote {
+	font-weight: 700;
+}
+
+@media only screen and (max-width: 959px) {
+	.VPHome {
+		flex-direction: column-reverse;
+	}
+
+	.VPHero .text {
+		font-size: 24px;
+	}
+	
+	.VPHero .tagline {
+		font-size: 14px;
+	}
+	
+	.heroimage {
+		margin: auto auto 0 auto;
+		width: fit-content;
+		max-width: 50%; width: 200px;
+	}
+
+	.link-back {
+		display: flex;
+		max-width: 340px;
+		margin: 0 auto;
+		color: #F7580B;
+		font-weight: 500;
+	}
+}
+
+@media only screen and (max-width: 639px) {
+	.heroimage {
+		max-width: 35%;
+	}
+}
