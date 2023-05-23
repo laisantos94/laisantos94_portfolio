@@ -1,9 +1,9 @@
 [build]
-  command = "CI='' yarn docs:build"
-  publish = "/build"
+  command = "yarn docs:build"
+  publish = "docs/.vitepress/dist"
   base ="/"
 
 [[redirects]]
-  from = "/*"
+  from = "/"
   to = "/index.html"
   status = 200
