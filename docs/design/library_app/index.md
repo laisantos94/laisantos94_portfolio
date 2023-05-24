@@ -7,9 +7,9 @@
 ![image](../library_app/img/library_thumbnail.png)
 
 ## Overview
-Reference service is an activity carried out by librarians in information units, which consists in supporting users in their information needs, in order to promote access, dissemination and use of information.
+Reference service is an activity carried out by librarians in information environments, which consists in supporting users in their information needs, in order to promote access, dissemination and use of information.
 
-This project was an academic team work that resulted in a case study made in a university library, where were developed an information product proposal to improve the communication between the library's Reference Service and the academic community.
+This project was an academic team work that resulted in a case study made in an academic library. At the time, an information product proposal were designed to improve the communication between the library's Reference Service and the academic community.
 
 ## My Role
 - Research
@@ -60,7 +60,7 @@ So, we thought and designed a solution for that issue.
 ## The Product
 ![image](../library_app/img/library_product.png)
 
-The product is a channel that aims to facilitate communication between library users and the library management, allowing users to signal their demands and provide feedback about their experience using the library products and services.
+Our product is a channel designed to facilitate communication between library users and the library management, allowing users to signal their demands and provide feedback about their experience using the library products and services.
 
 ## User Flow
 ![image](../library_app/img/library_userflow.png)

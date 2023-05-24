@@ -3,31 +3,26 @@
 <br>
 
 # Lais Santos
-
-<br>
-
 #### Technical Writer
+---
+| [Portfolio](https://laisantos94.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/laisantos94) |  [Email](laisantosbr@gmail.com)  |
+| ------------- | :-----------: | ----: |
 
 <br>
-
-| [Portfolio](laisantos94.com) | [LinkedIn](https://www.linkedin.com/in/laisantos94) |  [Email](laisantosbr@gmail.com)  |
-| ------------- | :-----------: | ----: |
- 
- <br>
 
 > I believe that willing people can always make this world better. Throughout my career, I worked solving problems of information access in physical and digital contexts. I also developed UX/UI Design skills during a career break. As a Technical Writer, I managed the documentation of four Blockchain licensed products and their new features.
 
 ## Skills
+- Team Work
 - Organization
-- Team Collaboration
 - Communication
+- Docs as Code
 - Technical Writing
 - Software Documentation
-- Docs as Code
 - Information Architecture
 - Attention to Detail
-- User-Centered Approach
 - Design Thinking
+- User-Centered Approach
 
 ## Technologies
 - Git
@@ -41,6 +36,7 @@
 - Figma
 - Visual Studio Code
 - Azure DevOps
+- Google Suite
 - GitHub
 
 ## Languages
