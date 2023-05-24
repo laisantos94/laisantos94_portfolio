@@ -79,7 +79,7 @@ The tests were carried out with 10 users, 5 on a Web device and 5 on a Mobile de
 Even though most users were able to complete the tasks, the feedbacks and analysis of the results helped me to note points that required relevant iterations to improve the product's usability.
 
 ## Style Guide
-With the iterations applied from results of the usability tests, I defined the visual composition of the product and designed the interfaces.
+With the iterations applied from the User Testing results, I defined the visual components of the product and designed the high-fidelity interfaces.
 
 ![image](../pet_aid/img/petaid_styleguide.png)
 
@@ -96,7 +96,7 @@ With the iterations applied from results of the usability tests, I defined the v
 ## Next Steps
 Considering future updates to the product, I believe some ideas with potential to be implemented are:
 
-- Usability testing with the high fidelity prototype.
+- Usability tests with high-fidelity prototype.
 - Generating of links to receive donations.
 - Area for receive proposals for partnerships with companies in the animal segment.
 - A feature for receiving and sending direct messages between the institution and adopters.

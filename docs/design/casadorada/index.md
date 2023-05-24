@@ -27,13 +27,13 @@ As I didn't have enough time or access to more information to explore the proble
 
 I was requested to redesign the **Homepage** and the **Mini Cart** of the website.
 
-### Homepage ∙ Before
+### Homepage ∙ Before Redesign
 
 ![image](../casadorada/img/casadorada_homepage_before.png)
 
 <br>
 
-### Mini Cart ∙ Before
+### Mini Cart ∙ Before Redesign
 
 ![image](../casadorada/img/casadorada_minicart_before.png)
 
@@ -57,14 +57,14 @@ In my review, I noticed that some usability heuristics hadn't been applied to th
 On the following topic, you can check out my redesign proposal for this website.
 
 ## Final Redesign
-### Web Layout
+### Web
 ![image](../casadorada/img/casadorada_web.png)
 
 ![image](../casadorada/img/casadorada_minicart_redesigned.png)
 
 <br>
 
-### Mobile Layout
+### Mobile
 ![image](../casadorada/img/casadorada_mobile.png)
 
 <br>

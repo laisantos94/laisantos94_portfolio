@@ -6,7 +6,7 @@
 ![image](../travel_concept/img/travel_thumbnail.png)
 
 ## Overview
-This project were focused on developing skills in UI Design and was developed as part of my Final Paper. The concept is of a product focused on helping people to get information about travel destinations and buy airline tickets.
+This project were focused on UI Design skills, and was designed as a part of my Final Paper. The concept is of a product focused on helping people to get information about travel destinations and buy airline tickets.
 
 ## My Role
 - User Flow

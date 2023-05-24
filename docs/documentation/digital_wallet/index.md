@@ -7,7 +7,7 @@
 ![image](../digital_wallet/img/digitalwallet_cover.png)
 
 ## Overview
-This documentation was developed in order to communicate Axia's financial white label product and improve the customer experience and their users.
+This documentation was developed in order to communicate Axia's financial white label product, and improve the customer experience and their users.
 
 ## My Role
 Only Technical Writer in the company, I was responsible for the entire documentation process, gathering and analyzing complex information about the product from multiple sources, such as feature cards, technical requirements, taking questions to the Product, Technology and QA team, and exploring the product navigation.
@@ -40,7 +40,7 @@ For Markdown files, I adopted the following structure standard:
                 /sectionfolder
                     file.md
 
-<Standard Applied>
+<Example>
 /Wallet.Documentation.Core
     /docs
         /en
@@ -55,7 +55,7 @@ Using the relative path, the anchor for a Markdown file into the code was writte
 <Structure Standard>
 [Link Name](../sectionfolder/filename.md)
 
-<Standard Applied>
+<Example>
 [Change Password](../account/changepassword.md)
 ```
 
@@ -63,7 +63,7 @@ This method brough great results to the documentation process and to those who n
 
 ### Image Files Naming
 ```
-< Structure Standard>
+<Structure Standard>
 /Product.Documentation.Core
     /docs
         /language
@@ -72,7 +72,7 @@ This method brough great results to the documentation process and to those who n
                     /imgsectionfolder
                         sectionname_filename.png
 
-<Standard Applied>
+<Example>
 /Wallet.Documentation.Core
     /docs
         /en
@@ -89,7 +89,7 @@ Using the relative path, the anchor for an image file into the code was written 
 <Standard>
 ![image](../img/section-folder/sectionname_filename.png)
 
-<Standard Applied>
+<Example>
 ![image](../img/account/account_changepassword.png)
 ```
 
@@ -99,11 +99,11 @@ To structure the docs navigation, I made a deep analysis of the product and I fo
 ![image](../digital_wallet/img/wallet_architecture_information.png)
 
 ### Navigation
-I usually think about something I learned from a Technical Writing teacher:
+I usually think about something I've learned from a Technical Writing teacher:
 
 > The documentation is the mirror of the product. {.quote}
 
- So, in the process of defining the information hierarchy in the navigation and page content structuring, I considered the same hierarchy which I analyzed in the product, in order to lead documentation users in the same direction as the information displayed in the UI.
+ So, in the process of defining the navigation architecture and pages content structuring, I considered the same information hierarchy that I analyzed in the product, in order to lead documentation users in the same direction as the information displayed in the UI.
 
 ![image](../digital_wallet/img/wallet_architecture_navigation.png)
 
