@@ -3,22 +3,22 @@ layout: home
 
 hero:
   name: Hey, I'm Lais :)
-  text: Welcome to my portfolio 👩🏻‍💻
+  text: I turn information into experiences
   image:
     src: /laisantos.png
     alt: laisantos
   tagline: You can start by About, and then check out my work below.
   actions:
-    - theme: brand
+    - theme: alt
       text: 👩🏻‍💻 About
       link: /about/index
-    - theme: brand
+    - theme: alt
       text: 🎨 Design
       link: /design/index
-    - theme: brand
+    - theme: alt
       text: 🖥️ Development
       link: /development/index
-    - theme: brand
+    - theme: alt
       text: 📄 Technical Docs
       link: /documentation/index
 ---

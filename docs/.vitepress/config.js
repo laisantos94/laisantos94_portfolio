@@ -22,7 +22,7 @@ themeConfig: {
 	],
 		
 	footer: {
-		message: 'Lais Santos © 2023 ∙ Powered by <a href="https://vitepress.dev/guide/what-is-vitepress">VitePress</a>',
+		message: '© 2023 Lais Santos ∙ Powered by <a href="https://vitepress.dev/guide/what-is-vitepress">VitePress</a>',
     }
 }
 }

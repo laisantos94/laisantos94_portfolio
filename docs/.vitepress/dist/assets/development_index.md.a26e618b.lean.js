@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a as n}from"./app.eee3dcbb.js";const v=JSON.parse('{"title":"🖥️ Development","description":"","frontmatter":{},"headers":[],"relativePath":"development/index.md"}'),i={name:"development/index.md"},s=n("",10),a=[s];function r(l,p,d,c,h,m){return o(),t("div",null,a)}const u=e(i,[["render",r]]);export{v as __pageData,u as default};

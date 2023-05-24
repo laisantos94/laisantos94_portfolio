@@ -1,12 +1,12 @@
 :root {
-	--c-brand: #F7580B;
+	--c-brand: rgb(252, 81, 48);
 	--c-brand-light: #B756FF;
-	--vp-c-brand: rgb(247, 88, 11);
+	--vp-c-brand: rgb(252, 81, 48);
 	--vp-button-brand-bg: rgb(18, 18, 18);
-	--vp-button-brand-border: rgb(247, 88, 11);
-	--vp-button-brand-hover-bg: rgb(183, 86, 255);
-	--vp-button-brand-hover-border: rgb(183, 86, 255);
-	--vp-button-brand-active-bg: rgb(183, 86, 255);
+	--vp-button-brand-border: #303030;
+	--vp-button-brand-hover-bg: #323232;
+	--vp-button-brand-hover-border: #303030;
+	--vp-button-brand-active-bg: #303030;
 	--vp-button-brand-active-border: rgb(183, 86, 255);
 	--vp-c-brand-dark: rgb(183, 86, 255);
 }
@@ -45,7 +45,8 @@ dangerblocktext {
 }
 
 .VPHero .text {
-	font-size: 42px;
+	font-size: 44px;
+	line-height: 130%;
 }
 
 .VPHero .tagline {
@@ -80,17 +81,25 @@ dangerblocktext {
 	font-weight: 700;
 }
 
+.VPFeature.link[data-v-549c013f]:hover {
+	border-color: #2176AE;
+}
+
 @media only screen and (max-width: 959px) {
 	.VPHome {
 		flex-direction: column-reverse;
 	}
 
 	.VPHero .text {
-		font-size: 24px;
+		font-size: 22px;
 	}
 	
 	.VPHero .tagline {
-		font-size: 14px;
+		font-size: 18px;
+	}
+
+	.VPHome .actions {
+		flex-direction: column;
 	}
 	
 	.heroimage {

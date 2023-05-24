@@ -18,4 +18,4 @@ So, here's what I did by building that simple portfolio:
 - Customization of the preset VitePress theme to my own theme by applying CSS3 on Markdown elements.
 - Deploying process through Netlify.
 
-I keep doing my best to make progress and bring better Web Development projects are coming in the future.
+I keep doing my best to make progress and bring better Web Development projects soon.

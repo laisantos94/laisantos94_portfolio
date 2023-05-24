@@ -10,7 +10,7 @@
 This documentation was developed in order to communicate Axia's financial white label product and improve the customer experience and their users.
 
 ## My Role
-As the only Technical Writer in the company, I was responsible for the entire documentation process, gathering and analyzing complex information about the product from multiple sources, such as feature cards, technical requirements, taking questions to the Product, Technology and QA team, and exploring the product navigation.
+Only Technical Writer in the company, I was responsible for the entire documentation process, gathering and analyzing complex information about the product from multiple sources, such as feature cards, technical requirements, taking questions to the Product, Technology and QA team, and exploring the product navigation.
 
 ### Skills
 - Information Architecture
@@ -25,14 +25,14 @@ As the only Technical Writer in the company, I was responsible for the entire do
 ## Docs as Code
 Oriented by Docs as Code approach, all documentation was maintained in repositories that were constantly updated from local to the remote environment through Git.
 
-### Documentation Repository Standards
+### Documentation Repository Standard
 In order to maintain an organized development environment, I defined a naming standard for the documentation folders and files.
 
 ### Markdown Files Naming
 For Markdown files, I adopted the following structure standard:
 
 ```
---- Standard
+<Structure Standard>
 /Product.Documentation.Core
     /docs
         /language
@@ -40,7 +40,7 @@ For Markdown files, I adopted the following structure standard:
                 /sectionfolder
                     file.md
 
---- Standard Applied
+<Standard Applied>
 /Wallet.Documentation.Core
     /docs
         /en
@@ -52,10 +52,10 @@ For Markdown files, I adopted the following structure standard:
 Using the relative path, the anchor for a Markdown file into the code was written like that:
 
 ```
---- Standard
+<Structure Standard>
 [Link Name](../sectionfolder/filename.md)
 
---- Standard Applied
+<Standard Applied>
 [Change Password](../account/changepassword.md)
 ```
 
@@ -63,33 +63,33 @@ This method brough great results to the documentation process and to those who n
 
 ### Image Files Naming
 ```
---- Standard
+< Structure Standard>
 /Product.Documentation.Core
     /docs
         /language
             /versionfolder
                 /img
                     /imgsectionfolder
-                        sectionname_filename.md
+                        sectionname_filename.png
 
---- Standard Applied
+<Standard Applied>
 /Wallet.Documentation.Core
     /docs
         /en
             /v_ongoing
                 /img
                     /account
-                        account_changepassword.md
+                        account_changepassword.png
 ```
 
 Using the relative path, the anchor for an image file into the code was written like that:
 
 
 ```
---- Standard
-![image](../img/section-folder/section-name_img-file-name.png)
+<Standard>
+![image](../img/section-folder/sectionname_filename.png)
 
---- Standard Applied
+<Standard Applied>
 ![image](../img/account/account_changepassword.png)
 ```
 
@@ -99,7 +99,7 @@ To structure the docs navigation, I made a deep analysis of the product and I fo
 ![image](../digital_wallet/img/wallet_architecture_information.png)
 
 ### Navigation
-I usually think about what I learned from a Technical Writing teacher:
+I usually think about something I learned from a Technical Writing teacher:
 
 > The documentation is the mirror of the product. {.quote}
 
