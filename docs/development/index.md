@@ -8,7 +8,7 @@ Along my first IT work experience as a Technical Writer, I had the privilege to 
 
 That's how I started to connect myself with some Web Development activities and tools, such as Version Control, when I learned about Git and Azure DevOps, HTML5 and CSS3.
 
-As I developed docs with VitePress, I decided to apply everything I've learned so far to build this portfolio and explore my skills as a potential Entry-Level Developer.
+As I developed docs with VitePress, I decided to apply everything I've learned so far to build this portfolio and explore my skills as a potential Entry-Level Frontend Developer.
 
 So, here's what I did by building that simple portfolio:
 
