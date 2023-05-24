@@ -17,8 +17,8 @@ themeConfig: {
     nav: [
 		{ text: 'About', link: 'about/index' },
 		{ text: 'Resume', link: 'resume/index' },
-        { text: 'LinkedIn', link: 'https://www.linkedin.com/in/laisantos94' },
-        { text: 'GitHub', link: 'https://github.com/laisantos94' },
+    { text: 'LinkedIn', link: 'https://www.linkedin.com/in/laisantos94/' },
+		{ text: 'GitHub', link: 'https://github.com/laisantos94' },
 	],
 		
 	footer: {

@@ -1,14 +1,18 @@
 :root {
 	--c-brand: rgb(252, 81, 48);
 	--c-brand-light: #B756FF;
-	--vp-c-brand: rgb(252, 81, 48);
+	--vp-c-brand: rgb(252, 81, 48); /* Hey, I'm Lais - Nav Links Hover */
 	--vp-button-brand-bg: rgb(18, 18, 18);
 	--vp-button-brand-border: #303030;
 	--vp-button-brand-hover-bg: #323232;
-	--vp-button-brand-hover-border: #303030;
+	--vp-button-brand-hover-border: #303030; /*  */
 	--vp-button-brand-active-bg: #303030;
 	--vp-button-brand-active-border: rgb(183, 86, 255);
-	--vp-c-brand-dark: rgb(183, 86, 255);
+	--vp-c-brand-dark: #2C3E50; /* Link Back Hover */
+}
+
+.root .outline-link:hover {
+	color: #FC5130;
 }
 
 .nav-bar .logo {
@@ -40,13 +44,27 @@ dangerblocktext {
 	color: #2C3E50;
 }
 
+.VPHome {
+	margin-block-end: -60px;
+}
 .VPHome .VPHero.has-image.VPHomeHero .container .image {
 	display: block;
 }
 
-.VPHero .text {
+.VPHome .VPHero .image-src {
+	margin: auto 40px;
+	position: absolute;
+}
+
+.VPHero .name { /* Hey, I'm Lais */
+	font-size: 60px;
+	line-height: 130%;
+}
+
+.VPHero .text { /* I turn information into experiences */
 	font-size: 44px;
 	line-height: 130%;
+	color: #2C3E50;
 }
 
 .VPHero .tagline {
@@ -65,15 +83,19 @@ dangerblocktext {
 	display: flex;
 	max-width: 1150px;
 	margin: 0 auto;
-	color: #F7580B;
+	color: #FC5130;
 	font-weight: 500;
+}
+
+a.link-back:hover {
+	color: #2C3E50;
 }
 
 .link-top {
 	display: flex;
 	max-width: 1150px;
 	margin: 0 auto;
-	color: #F7580B;
+	color: #FC5130;
 	font-weight: 500;
 }
 
@@ -81,7 +103,7 @@ dangerblocktext {
 	font-weight: 700;
 }
 
-.VPFeature.link[data-v-549c013f]:hover {
+.VPFeature.link[data-v-549c013f]:hover { /* Feature Blocks Hover Border */
 	border-color: #2176AE;
 }
 
@@ -90,12 +112,23 @@ dangerblocktext {
 		flex-direction: column-reverse;
 	}
 
+	.VPHome .VPHero .image-src {
+		margin: auto;
+		position: absolute;
+	}
+
+	.VPHero .name {
+		font-size: 32px;
+		line-height: 130%;
+		padding-bottom: 8px;
+	}
+
 	.VPHero .text {
 		font-size: 22px;
 	}
 	
 	.VPHero .tagline {
-		font-size: 18px;
+		font-size: 16px;
 	}
 
 	.VPHome .actions {
@@ -110,9 +143,9 @@ dangerblocktext {
 
 	.link-back {
 		display: flex;
-		max-width: 340px;
+		max-width: 360px;
 		margin: 0 auto;
-		color: #F7580B;
+		color: #FC5130;
 		font-weight: 500;
 	}
 }
