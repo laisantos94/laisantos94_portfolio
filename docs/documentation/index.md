@@ -2,7 +2,7 @@
 layout: 'home'
 
 hero:
-  name: 📄 Technical Docs
+  name: 📄 Documentation
   text: 
   tagline: My goal is to build and deliver documentations that be able to bring highly improvements to the customer experience.
 

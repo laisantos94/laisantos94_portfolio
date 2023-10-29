@@ -3,7 +3,7 @@
 <br>
 
 # Lais Santos
-#### Technical Writer
+#### UX/UI Designer & Information Analyst
 ---
 | [Portfolio](https://laisantos94.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/laisantos94) |  [Email](laisantosbr@gmail.com)  |
 | ------------- | :-----------: | ----: |
@@ -45,6 +45,13 @@
 - Portuguese (Native)
 
 ## Work Experience
+#### UX/UI Designer Intern
+Jul. 2023 – present ∙ VExpenses
+
+- [In progress...]
+
+<br>
+
 #### Junior Technical Writer
 Mar. 2023 – May 2023 ∙ Axia Digital Solutions
 
